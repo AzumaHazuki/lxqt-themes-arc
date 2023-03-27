@@ -1,13 +1,15 @@
 # lxqt-themes-arc
 
-This repository contains the Arc and Arc-Dark themes for LXQt, as well as the associated color schemes (palette files).
+This repository contains ports of the Arc(-Light) and Arc-Dark themes to LXQt, as well as a version of each, Arc-Tint and Arc-Shade respectively, that will pick up on the user's highlight and selected-text colors from the currently-active palette.
 
-If using the Openbox window manager, which is the default on X11/Xorg, it might be useful to install the <a href=https://www.box-look.org/p/1017533/>Arc-Openbox</a> themes by user "arcbox" for a more consistent look.
+Arc-Light theme
+![Arc-Light-LXQt](https://user-images.githubusercontent.com/67122280/227820375-2d7d6470-a7e1-4c5b-8a57-3885bb61e27c.png)
 
-Arc theme and palette, with Fusion Qt widget style and Qogir icon theme:
+Arc-Dark theme
+![Arc-Dark-LXQt](https://user-images.githubusercontent.com/67122280/227820380-3aa53a8e-dd5b-448c-8e8a-d4f2c840316d.png)
 
-![Arc-LXQt](https://user-images.githubusercontent.com/67122280/202936130-c7208aa2-97f7-4a2b-b837-ee347d6aa4ca.jpg)
+Arc-Tint theme, with a purple palette
+![Arc-Tint-LXQt](https://user-images.githubusercontent.com/67122280/227820379-67c4fd54-95ca-465f-8b07-e8fe34781eee.png)
 
-Arc-Dark theme and palette, with Plastik widget style and Qogir-dark icon theme:
-
-![Arc-Dark-LXQt](https://user-images.githubusercontent.com/67122280/202936167-2d1f5f55-2ca6-4eac-88bd-a0130373072c.jpg)
+Arc-Shade theme, with a red palette
+![Arc-Shade-LXQt](https://user-images.githubusercontent.com/67122280/227820376-c04436f4-b851-4c75-8243-22ad5400731d.png)
