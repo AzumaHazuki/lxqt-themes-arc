@@ -1,0 +1,38 @@
+Notification {
+	color:				#d3dae3;
+	background:			#383c4a;
+
+	border:				1px solid #2b2e39;
+}
+
+QLabel {
+	color:				#d3dae3;
+}
+
+#closeButton {
+	border:				1px solid transparent;
+	border-radius:			2px;
+
+	qproperty-icon:			url(assets/icons/close.png);
+	qproperty-iconSize:		16px;
+
+	padding:			3px;
+}
+
+#closeButton:hover {
+        color:                          #d3dae3;
+        background:                     #404552;
+
+	border:				1px solid #2b2e39;
+}
+
+#closeButton:pressed {
+        color:                          #d3dae3;
+        background:                     #2b2e39;
+
+	border:				1px solid #2b2e39;
+}
+
+#appLabel {
+	font-weight:			bold;
+}
