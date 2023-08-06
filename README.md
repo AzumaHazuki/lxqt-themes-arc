@@ -1,6 +1,8 @@
 # lxqt-themes-arc
 
-This repository contains ports of the Arc(-Light) and Arc-Dark themes to LXQt, as well as a version of each, Arc-Tint and Arc-Shade respectively, that will pick up on the user's highlight and selected-text colors from the currently-active palette. Note that this may mismatch the window title (Openbox theme) to the application's coloring, so you may want to switch WM themes as well when using the palettized variants.
+This repository contains ports of the Arc(-Light) and Arc-Dark themes to LXQt and Openbox (extract the .tar.xz archives into ~/.themes), as well as a version of each, Arc-Tint and Arc-Shade respectively, that will pick up on the user's highlight and selected-text colors from the currently-active palette. 
+
+Note that this may mismatch the window title (Openbox theme) to the application's coloring, so you may want to switch WM themes as well when using the palettized variants.
 
 Arc-Light theme
 ![Arc-Light](https://github.com/AzumaHazuki/lxqt-themes-arc/assets/67122280/a10a96a1-1fb5-40b1-a551-b8b717224731)
