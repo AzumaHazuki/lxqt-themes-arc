@@ -1,15 +1,15 @@
 # lxqt-themes-arc
 
-This repository contains ports of the Arc(-Light) and Arc-Dark themes to LXQt, as well as a version of each, Arc-Tint and Arc-Shade respectively, that will pick up on the user's highlight and selected-text colors from the currently-active palette.
+This repository contains ports of the Arc(-Light) and Arc-Dark themes to LXQt, as well as a version of each, Arc-Tint and Arc-Shade respectively, that will pick up on the user's highlight and selected-text colors from the currently-active palette. Note that this may mismatch the window title (Openbox theme) to the application's coloring, so you may want to switch WM themes as well when using the palettized variants.
 
 Arc-Light theme
-![Arc-Light-LXQt](https://user-images.githubusercontent.com/67122280/227820375-2d7d6470-a7e1-4c5b-8a57-3885bb61e27c.png)
+![Arc-Light](https://github.com/AzumaHazuki/lxqt-themes-arc/assets/67122280/a10a96a1-1fb5-40b1-a551-b8b717224731)
 
 Arc-Dark theme
-![Arc-Dark-LXQt](https://user-images.githubusercontent.com/67122280/227820380-3aa53a8e-dd5b-448c-8e8a-d4f2c840316d.png)
+![Arc-Dark](https://github.com/AzumaHazuki/lxqt-themes-arc/assets/67122280/24fb6783-03fa-46db-b0b3-6eb3621577e4)
 
-Arc-Tint theme, with a purple palette
-![Arc-Tint-LXQt](https://user-images.githubusercontent.com/67122280/227820379-67c4fd54-95ca-465f-8b07-e8fe34781eee.png)
+Arc-Tint - custom light theme, with Mint-X-Purple colors
+![Arc-Tint](https://github.com/AzumaHazuki/lxqt-themes-arc/assets/67122280/4f1268c6-d4b3-410a-ac4f-f00e50f784cf)
 
-Arc-Shade theme, with a red palette
-![Arc-Shade-LXQt](https://user-images.githubusercontent.com/67122280/227820376-c04436f4-b851-4c75-8243-22ad5400731d.png)
+Arc-Shade - custom dark theme, with Ambiance colors
+![Arc-Shade](https://github.com/AzumaHazuki/lxqt-themes-arc/assets/67122280/e335e076-fff0-4c6f-bc8c-550523c8f111)
